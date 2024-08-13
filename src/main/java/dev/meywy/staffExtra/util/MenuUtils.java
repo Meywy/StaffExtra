@@ -26,7 +26,7 @@ public class MenuUtils {
         fly.setItemMeta(flyMeta);
         inv.setItem(10, fly);
 
-        // CREATIVE
+        // GAMEMODE
         ItemStack creative = new ItemStack(Material.BEDROCK);
         ItemMeta creativeMeta = creative.getItemMeta();
         creativeMeta.setDisplayName(Message.colorize("&a&lGamemode"));
@@ -34,7 +34,7 @@ public class MenuUtils {
         creative.setItemMeta(creativeMeta);
         inv.setItem(12, creative);
 
-        // SURVIVAL
+        // VANISH
         ItemStack vanish = new ItemStack(Material.POTION);
         PotionMeta vanishMeta = (PotionMeta) vanish.getItemMeta();
         vanishMeta.setDisplayName(Message.colorize("&f&lVanish"));
@@ -44,6 +44,7 @@ public class MenuUtils {
         vanish.setItemMeta(vanishMeta);
         inv.setItem(14, vanish);
 
+        // DAY
         ItemStack day = new ItemStack(Material.CLOCK);
         ItemMeta dMeta = day.getItemMeta();
         dMeta.setDisplayName(Message.colorize("&e&lDay"));
