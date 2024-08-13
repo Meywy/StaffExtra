@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiscordProjectSettings">
+    <option name="show" value="PROJECT_FILES" />
+    <option name="description" value="" />
+    <option name="applicationTheme" value="material" />
+    <option name="iconsTheme" value="default" />
+    <option name="button1Title" value="Click Me!" />
+    <option name="button1Url" value="https://github.com/meywy" />
+    <option name="button2Title" value="Click Me too!" />
+    <option name="button2Url" value="https://meywy.is-a.dev" />
+    <option name="customApplicationId" value="" />
+  </component>
+</project>

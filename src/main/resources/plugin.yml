@@ -1,0 +1,10 @@
+name: StaffExtra
+version: '1.0'
+main: dev.meywy.staffExtra.StaffExtra
+api-version: '1.21'
+authors: [ Meywy ]
+description: A Moderation Plugin for server Staff Memebers
+website: meywy.is-a.dev
+commands:
+  staffmenu:
+  staffmod:
