@@ -1,6 +1,11 @@
 # StaffExtra
 
-StaffExtra is Minecraft Plugin for Server Staff Members
+StaffExtra is Minecraft Plugin for server staff members to help moderate the server more easily
+
+## READ!
+
+This plugin build currently work only on 1.21
+
 
 ## Installation
 
